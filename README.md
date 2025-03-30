@@ -1,4 +1,4 @@
-# **🏛️ LegalEase-AI**# **🏛️ LegalEase-AI**
+# **🏛️ LegalEase-AI**
    The legal world depends heavily on written case files, judgments, petitions, and other documents. In courts like the Karnataka High Court, these files can stretch to dozens of pages filled with legal jargon, technical terms, and procedural language.For advocates, especially juniors or interns, reading and understanding these documents is not only time-consuming but also mentally exhausting. Every case requires careful reading, summarizing, noting key insights, and preparing responses—repeating this for multiple files daily becomes a major challenge.LegalEase AI was built to make this process smarter. It’s not just a chatbot—it’s a digital assistant for lawyers that helps them read, understand, and engage with Karnataka High Court case files in a faster, simpler, and more interactive way.
 
 # **⚡Features**
